@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amtrak</string>
+    <string name="please">Please insert your travel information</string>
+    <string name="boarding">Please enter your boarding time</string>
+    <string name="colon">:</string>
+    <string name="plz">Please enter your trip length in minutes.</string>
+    <string name="n">Next</string>
+    <string name="you">You will arrive at...</string>
+</resources>
